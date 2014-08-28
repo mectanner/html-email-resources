@@ -12,20 +12,17 @@ HTML Email Resources
 
 ### Boilerplate
 
-I haven't actually used any of these. (^MR)
-
 * [Emailology](http://www.emailology.org/#1)
 * [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
 * [Ink: A Responsive Email Framework from Zurb](http://zurb.com/ink/)
 	* If you've relied on Zurb Foundation for your web projects, they've now tackled email.
 
-### CSS (or lack thereof)
+### CSS
 
-* [Bulletproof Email Background Images](http://emailbg.net/)
-	* This technique (and tool to generate the necessary code) works, but Outlook 2007, 2010 and 2013 fall apart when you put two tables over the background image with `align=left` & `align=right`, which is a popular technique for responsive email design.
-* [Bulletproof Email Buttons Campaign Monitor](http://buttons.cm/)
 * [Bulletproof Email Buttons Litmus](https://litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design)
 * [Bulletproof Email Buttons List A Part](http://alistapart.com/article/can-email-be-responsive)
+* [Bulletproof Email Background Images](http://emailbg.net/)
+* [Bulletproof Email Buttons Campaign Monitor](http://buttons.cm/)
 
 ### Delivery Platforms - Third-party
 
