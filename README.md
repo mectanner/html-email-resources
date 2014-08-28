@@ -12,10 +12,9 @@ HTML Email Resources
 
 ### Boilerplate
 
-* [Emailology](http://www.emailology.org/#1)
 * [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
 * [Ink: A Responsive Email Framework from Zurb](http://zurb.com/ink/)
-	* If you've relied on Zurb Foundation for your web projects, they've now tackled email.
+* [Emailology](http://www.emailology.org/#1)
 
 ### CSS
 
@@ -23,11 +22,6 @@ HTML Email Resources
 * [Bulletproof Email Buttons List A Part](http://alistapart.com/article/can-email-be-responsive)
 * [Bulletproof Email Background Images](http://emailbg.net/)
 * [Bulletproof Email Buttons Campaign Monitor](http://buttons.cm/)
-
-### Delivery Platforms - Third-party
-
-* [Campaign Monitor](http://campaignmonitor.com)
-* [MailChimp](http://www.mailchimp.com)
 
 ### Design Galleries
 
@@ -67,3 +61,4 @@ HTML Email Resources
 ### Tools
 
 * [Litmus Scope](https://litmus.com/scope/)
+* [PutsMail](http://putsmail.com/)
