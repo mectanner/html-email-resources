@@ -13,8 +13,8 @@ HTML Email Resources
 ### Boilerplate
 
 * [HTML Email Boilerplate](http://htmlemailboilerplate.com/)
-* [Ink: A Responsive Email Framework from Zurb](http://zurb.com/ink/)
 * [Emailology](http://www.emailology.org/#1)
+* [Ink: A Responsive Email Framework from Zurb](http://zurb.com/ink/)
 
 ### Builders
 
@@ -46,6 +46,7 @@ HTML Email Resources
 * [Font Squirrel](http://www.fontsquirrel.com/)
 * [Google Fonts](https://tinypng.com/)
 * [Typekit Practice](http://practice.typekit.com/)
+* [WhatFont](http://chengyinliu.com/whatfont.html)
 
 ### Guides & Resources
 
@@ -67,7 +68,6 @@ HTML Email Resources
 * [Multi-Column Responsive Layouts (Campaign Monitor)](http://www.campaignmonitor.com/guides/mobile/responsive/)
 * [Responsive HTML Emails: a Different Strategy](http://blog.fogcreek.com/responsive-html-emails-a-different-strategy/)
 * [The Hybrid Coding Approach #ActionRocketLabs](http://labs.actionrocket.co/the-hybrid-coding-approach)
-* [Responsive Email Patterns Brian Graves'](http://briangraves.github.io/ResponsiveEmailPatterns/)
 
 ### Statistics & Data
 * [Heatmapping Technology CrazyEgg](http://www.crazyegg.com/)
@@ -81,6 +81,7 @@ HTML Email Resources
 ### Testing
 
 * [Litmus](https://litmus.com/)
+* [PutsMail](http://putsmail.com/)
 
 ### Tools
 
@@ -88,9 +89,9 @@ HTML Email Resources
 * [FFFFallBack Bulletproof Web Typography](http://ffffallback.com/)
 * [HTML Tidy](http://infohound.net/tidy/)
 * [Sublime Text](http://www.sublimetext.com)
-* [WhatFont](http://chengyinliu.com/whatfont.html)
 
 ### Workflows
 
 * [Modular Design Smashing Magazine](http://www.smashingmagazine.com/2014/08/04/improve-your-email-workflow-with-modular-design/?utm_content=buffer67127&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Responsive Email Patterns Brian Graves'](http://briangraves.github.io/ResponsiveEmailPatterns/)
 
