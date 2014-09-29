@@ -51,7 +51,7 @@ HTML Email Resources
 ### Guides & Resources
 
 * [Campaign Monitor Guides](https://www.campaignmonitor.com/guides/mobile/)
-* [Litmus](https://litmus.com/blog/our-favorite-responsive-and-mobile-email-resources)
+* [Litmus Our Favorite Responsive and Mobile Email Resources](https://litmus.com/blog/our-favorite-responsive-and-mobile-email-resources)
 * [MailChimp Guides](http://mailchimp.com/resources/)
 
 ### Images
