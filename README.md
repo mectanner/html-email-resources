@@ -20,10 +20,6 @@ HTML Email Resources
 
 * [Litmus](https://litmus.com/email-builder)
 
-### Communities
-
-* [Litmus | Discussions](https://litmus.com/community/discussions)
-
 ### Coding
 
 * [Bulletproof Email Buttons Litmus](https://litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design)
@@ -31,6 +27,10 @@ HTML Email Resources
 * [HTML5 Video Background in Email Litmus](https://litmus.com/blog/how-to-code-html5-video-background-in-email)
 * [Meet the Ipsums](http://www.smashingmagazine.com/2014/08/04/improve-your-email-workflow-with-modular-design/?utm_content=buffer67127&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Outlook Conditional CSS MailChimp](http://templates.mailchimp.com/development/css/outlook-conditional-css/)
+
+### Communities
+
+* [Litmus | Discussions](https://litmus.com/community/discussions)
 
 ### Delivery
 
