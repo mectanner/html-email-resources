@@ -23,6 +23,10 @@ HTML Email Resources
 * [Bulletproof Email Background Images](http://emailbg.net/)
 * [Bulletproof Email Buttons Campaign Monitor](http://buttons.cm/)
 
+### Delivery
+
+* [How does email file size affect deliverability?](https://www.emailonacid.com/blog/details/C13/how_does_email_file_size_affect_deliverability)
+
 ### Design Galleries
 
 * [Campaign Monitor: Email Inspiration](http://www.campaignmonitor.com/gallery/)
@@ -58,7 +62,3 @@ HTML Email Resources
 
 * [Litmus](https://litmus.com/)
 
-### Tools
-
-* [Litmus Scope](https://litmus.com/scope/)
-* [PutsMail](http://putsmail.com/)
